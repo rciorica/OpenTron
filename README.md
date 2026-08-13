@@ -24,7 +24,7 @@
 
 ## What is Open Tron?
 
-**Open Tron** is an open-source, high-density, stateful multi-agent AI orchestrator built natively on **Java 21**, **Spring Boot**, and **PostgreSQL**. 
+**Open Tron** is a high-density, stateful multi-agent AI orchestrator built natively on **Java 21**, **Spring Boot**, and **PostgreSQL**. 
 
 While mainstream AI frameworks rely on heavy Python runtimes (LangChain, CrewAI, AutoGen) that quickly encounter high RAM usage and operational complexity, Open Tron delivers enterprise-grade concurrency, high throughput, and low-latency agent orchestration on low-cost hardware.
 
